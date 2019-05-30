@@ -19,7 +19,7 @@ eHardwareDetect_I2C: .equ 3
 @ Input MD5    : C975307B116BB273D5A1DDF29BEB256D
 @ Input CRC32  : 0BC3080F
 
-@ File Name   : /Users/sarnau/Desktop/LM3S2678_ROM_01000000.bin
+@ File Name   : ~/Desktop/LM3S2678_ROM_01000000.bin
 @ Format      : Binary file
 @ Base Address: 0000h Range: 1000000h - 1002C00h Loaded length: 2C00h
 
